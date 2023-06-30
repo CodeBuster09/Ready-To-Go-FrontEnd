@@ -42,5 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },"proxy":"https://ready-to-go-backend.onrender.com"
+  },"proxy":"https://ready-to-go-backend.onrender.com/api"
 }
